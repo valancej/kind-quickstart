@@ -10,6 +10,7 @@ In this section, you'll learn how to get up and running with a stand-alone Ancho
 - [Go (1.11+)](https://golang.org/doc/install)
 - [kind](https://kind.sigs.k8s.io/docs/user/quick-start/#installation)
 - [Helm](https://helm.sh/docs/intro/install/)
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
 ### Step 1: Create required secrets for Anchore Enterprise installation
 
